@@ -3,4 +3,4 @@
 안녕하세용~
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mhkr03})](https://solved.ac/{mhkr03})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{mhkr03})
