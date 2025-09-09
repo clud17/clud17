@@ -5,5 +5,5 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhkr03)](https://solved.ac/mhkr03)
 
 
-<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
