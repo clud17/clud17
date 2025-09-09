@@ -10,5 +10,3 @@
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white)
 ![Csharp](https://img.shields.io/badge/C%23-39477F.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 
-<img alt="CPP" src ="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white"/>
-<img alt="Csharp" src ="https://img.shields.io/badge/C%23-39477F.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
