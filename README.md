@@ -1,8 +1,10 @@
-# clud
+# 클라이언트 프로그래머 지망생
 ## welcome
-hello
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhkr03)](https://solved.ac/mhkr03)
+### ✏ Unity와 Unreal을 공부중인 게임 개발자 지망생입니다
+
+Email: mhkr0429@gmail.com
+
 
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
