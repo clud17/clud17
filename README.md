@@ -1,7 +1,7 @@
-# 클라이언트 프로그래머 지망생
+# Game Developer
 ## welcome
 
-### ✏ Unity와 Unreal을 공부중인 게임 개발자 지망생입니다
+### ✏ Unity와 Unreal을 공부중..
 
 Email: mhkr0429@gmail.com
 
